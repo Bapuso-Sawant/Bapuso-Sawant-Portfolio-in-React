@@ -1,0 +1,24 @@
+.Home{    
+    display: flex;
+    height: 500px;
+    padding-top: 80px;
+    position: relative;
+}
+.Home .Container h2{   
+    position: absolute;
+    bottom: 0;
+    padding-left: 25px;
+    color: #D2BEC4;
+    font-size: 40px;    
+}
+.Home .code{
+    height: 24%;
+    position: absolute;
+    right: 0;    
+    bottom: 0;
+    padding-right: 20px;
+}
+.Home .nav_img{
+    width: 1600px;
+    height: 500px;
+}  

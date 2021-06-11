@@ -1,0 +1,30 @@
+.Container{
+    background-color: #212222;    
+    padding-bottom: 50px;
+}
+.Container .ExtraActivities .Paragraph p{    
+    text-align: center;
+}
+.Container .ExtraActivities .blocks{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.Container .ExtraActivities .blocks .block{
+    height: 200px;    
+    background-color: black;
+    box-shadow: 0 0 12px 4px wheat;
+    border-radius: 9px; 
+    margin-left: 4%;    
+    margin-right: 4%;    
+    padding: 1%;
+}
+
+.Container .ExtraActivities .blocks .block ul{
+    list-style: none;    
+}
+.Container .ExtraActivities .blocks .block h2{
+    color:#7594EE;
+}
+.Container .ExtraActivities .blocks .block ul li{
+    font-size: 20px;
+}
